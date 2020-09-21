@@ -4,7 +4,7 @@ Jedha Data Science Bootcamp - #dsen-paris-04 - Data pipeline project
 
 ## Introduction
 
-In this project, my goal is produce a comprehensive visualization of the distribution of the US car accidents.
+In this project, my goal is to produce a comprehensive visualization of the distribution of the US car accidents.
 Using a dataset from [kaggle](https://www.kaggle.com/sobhanmoosavi/us-accident), I manage to produce a heatmap:
 
 ![alt_text](images/heatmap.png)
